@@ -94,6 +94,8 @@ work out of the box.
       but it's better than nothing.
         * `WHISPER_DONT_GENERATE_BINDINGS=1 cargo build`
     * If you can fix the issue, please open a PR!
+* For some quick tips for Vulkan builds on Windows
+    * Make sure working directory path is not too long, can hit Windows file size limit
 
 ## License
 
